@@ -1,5 +1,5 @@
 # FreeHomeAgent 居家坐席、移动坐席
-居家坐席，移动坐席，互联网坐席，手机坐席，Call Center, Contact Center,AI,大模型，人工智能，联络中心,Robot,large model robot，打破空间限制，开启居家办公新时代!!!!!!
+居家坐席，移动坐席，互联网坐席，手机坐席，Call Center, Contact Center,AI,大模型，人工智能，联络中心,Robot,large model robot，打破空间限制，开启居家办公新时代!!
 
 ## 😄完整性:前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！部分功能还在迭代ing！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
@@ -79,6 +79,8 @@ http://118.25.192.13:80
 9.	高度可配置：提供直观的配置界面，让用户无需编程即可根据自身需求调整系统参数、优化工作流程，实现快速定制与部署。
 10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者！
 
+![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/381a987b-a3f4-41c8-9046-796657e895dd)
+![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图02](https://github.com/user-attachments/assets/b98d92dd-a2fa-4f83-b332-49bee1fa3522)
 ![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
 ![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
 ![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
